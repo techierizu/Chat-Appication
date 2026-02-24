@@ -9,5 +9,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techierizu/Chat-Appication.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/techierizu/Chat-Appication/issues"
+  },
+  "homepage": "https://github.com/techierizu/Chat-Appication#readme"
 }
